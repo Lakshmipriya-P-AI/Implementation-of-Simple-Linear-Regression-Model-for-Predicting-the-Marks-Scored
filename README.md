@@ -8,10 +8,13 @@ To write a program to implement the simple linear regression model for predictin
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Use the standard libraries in python for Gradient Design.
+2.Set variables for assigning dataset values.
+3.Import linear regression from sklearn.
+4.Assign the points for representing in the graph
+5.Predict the regression for marks by using the representation of the graph.
+6.Compare the graphs and hence we obtained the linear regression for the
+given datas. 
 
 ## Program:
 ```
@@ -53,8 +56,6 @@ plt.show()\
 
 ## Output:
 ![output](https://user-images.githubusercontent.com/93427923/161201569-0d85360b-098c-442e-a481-5e48393c2a0a.png)
-
-
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
